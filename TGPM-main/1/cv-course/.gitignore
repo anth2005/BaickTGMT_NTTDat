@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data / video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Logs / temporary files
+*.log
+*.tmp
+*.out
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Build / distribution folders
+output/
+build/
+Dist/
